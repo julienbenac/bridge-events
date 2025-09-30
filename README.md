@@ -18,7 +18,7 @@
 
 To begin using `bridge-events`, you first need to install the package. Select the installation method that best fits your workflow:
 
-<details>
+<details open>
   <summary><strong>📦 Using pip</strong></summary>
 
 ```bash
