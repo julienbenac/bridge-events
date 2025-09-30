@@ -16,11 +16,36 @@
 
 ### Installation
 
-To begin using `bridge-events`, you first need to install the package. The following command downloads and installs the latest version from PyPI. Once installed, you can import the event emitter into your Python project and start building event-driven logic.
+To begin using `bridge-events`, you first need to install the package. Select the installation method that best fits your workflow:
+
+<details>
+  <summary><strong>📦 Using pip</strong></summary>
 
 ```bash
 pip install bridge-events
 ```
+
+</details>
+
+<details>
+  <summary><strong>🚀 Using pipx</strong></summary>
+
+```bash
+pipx install bridge-events
+```
+
+</details>
+
+<details>
+  <summary><strong>⚡ Using uv</strong></summary>
+
+```bash
+uv add bridge-events
+```
+
+</details>
+
+Once installed, you can import the event emitter into your Python project and start building event-driven logic.
 
 ### Usage
 
